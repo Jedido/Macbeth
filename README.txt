@@ -1,1 +1,1 @@
-The framework of the game window and its organization is based off a tutorial series I found on Youtube called Dragon Tale made by ForeignGuyMike. Music from Xenoblade Chronicles. Game concept, level design, and rest of programming written by me. Made in June 2013.
+The framework of the game window and its organization is based off a tutorial series I found on Youtube called Dragon Tale made by ForeignGuyMike. Music from Xenoblade Chronicles. Game concept, level design, and rest of programming written by me. Made in June 2014.
